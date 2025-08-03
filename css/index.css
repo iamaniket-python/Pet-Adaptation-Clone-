@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
-.body{
-    oveflow:hidden
-}
+
 .navbar{
     position: fixed;
     top: 0;
@@ -11,6 +9,7 @@
     z-index: 1000;
     padding: 5px 5px;
     display: flex;
+    overflow:hidden;
     
 
 }
