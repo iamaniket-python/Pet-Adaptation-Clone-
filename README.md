@@ -19,6 +19,6 @@ HTML5
 
 CSS3 (with media queries)
 
-Google Fonts (optional)
+Google Fonts 
 
 Font Awesome or custom icons 
